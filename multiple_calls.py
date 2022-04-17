@@ -5,4 +5,7 @@ def func_a():
 def func_b():
   print("This is a Second Function")
 
+def func_c():
+  print("This is a Third Function")
+
 func_a()
